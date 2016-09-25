@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
    <RomName>cm-13.0-peach</RomName>
-   <VersionName><![CDATA[cm-13.0-20160925-NIGHTLY-peach]]></VersionName>
+   <VersionName><![CDATA[cm-13.0-20160925-UNOFFICIAL-peach]]></VersionName>
    <VersionNumber type="integer">20160925</VersionNumber>
-   <DirectUrl><![CDATA[http://lolmaxlik.cloudapp.net/compiled/CyanogenMod/cm-13.0-20160918-NIGHTLY-peach.zip]]></DirectUrl>
+   <DirectUrl><![CDATA[http://lolmaxlik.cloudapp.net/compiled/CyanogenMod/cm-13.0-20160925-UNOFFICIAL-peach.zip]]></DirectUrl>
    <HttpUrl><![CDATA[http://lolmaxlik.cloudapp.net/compiled/CyanogenMod/]]></HttpUrl>
    <Android>6.0.1</Android>
    <CheckMD5>d0e465648275aaec8190bd75550392e2</CheckMD5>
