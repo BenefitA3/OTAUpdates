@@ -6,10 +6,10 @@
    <DirectUrl><![CDATA[http://lolmaxlik.cloudapp.net/compiled/CyanogenMod/cm-13.0-20160926-NIGHTLY-peach.zip]]></DirectUrl>
    <HttpUrl><![CDATA[http://lolmaxlik.cloudapp.net/compiled/CyanogenMod/]]></HttpUrl>
    <Android>6.0.1</Android>
-   <CheckMD5>70fef10732bf4b552cbdf35dd4740faf</CheckMD5>
-   <FileSize type="integer">343121814</FileSize>
+   <CheckMD5>63b8035faae057160cb3a094c9d9cc59</CheckMD5>
+   <FileSize type="integer">343122798</FileSize>
    <WebsiteURL><![CDATA[http://4pda.ru/forum/index.php?s=&showtopic=692103&view=findpost&p=52473703]]></WebsiteURL>
-   <Changelog><![CDATA[20160925:
+   <Changelog><![CDATA[20160926:
 
 Все изменения CyanogenMod
 
