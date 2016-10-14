@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
    <RomName>cm-13.0-peach</RomName>
-   <VersionName><![CDATA[cm-13.0-20160927-NIGHTLY-peach]]></VersionName>
-   <VersionNumber type="integer">20160927</VersionNumber>
-   <DirectUrl><![CDATA[http://lolmaxlik.cloudapp.net/compiled/CyanogenMod/cm-13.0-20160927-NIGHTLY-peach.zip]]></DirectUrl>
+   <VersionName><![CDATA[cm-13.0-20161014-NIGHTLY-peach]]></VersionName>
+   <VersionNumber type="integer">20161014</VersionNumber>
+   <DirectUrl><![CDATA[http://lolmaxlik.cloudapp.net/compiled/CyanogenMod/cm-13.0-20161014-NIGHTLY-peach.zip]]></DirectUrl>
    <HttpUrl><![CDATA[http://lolmaxlik.cloudapp.net/compiled/CyanogenMod/]]></HttpUrl>
    <Android>6.0.1</Android>
-   <CheckMD5>177845425e08b7dc1cedf3299a9fe599</CheckMD5>
-   <FileSize type="integer">343119739</FileSize>
+   <CheckMD5>07eee4869a66eba87281abc94d6e7102</CheckMD5>
+   <FileSize type="integer">343148130</FileSize>
    <WebsiteURL><![CDATA[http://4pda.ru/forum/index.php?s=&showtopic=692103&view=findpost&p=52473703]]></WebsiteURL>
    <Changelog><![CDATA[20160927:
 
